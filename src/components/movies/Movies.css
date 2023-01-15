@@ -1,0 +1,14 @@
+.card {
+    max-width: 440px;
+    padding: 10px;
+    background-color: #96BAFF;
+    border-radius: 10px;
+    font-weight: 600;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.movie-info {
+    color: black;
+    font-size: 14px;
+}
